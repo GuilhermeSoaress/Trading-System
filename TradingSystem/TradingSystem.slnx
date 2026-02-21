@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TradingSystem/TradingSystem.csproj" />
+  <Project Path="tests/TradingSystem.Tests/TradingSystem.Tests.csproj" />
+  <Project Path="src/TradingSystem.McpServer/TradingSystem.McpServer.csproj" />
+</Solution>
